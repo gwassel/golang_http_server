@@ -8,5 +8,4 @@ cmd make build_no_libc
 
 expose 8080
 
-# cmd ["./apiserver"]
-cmd [""]
+cmd ["./apiserver"]
